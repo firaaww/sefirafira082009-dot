@@ -1,5 +1,5 @@
-nama: sefira dwi ningsih
-kelas: XI RPL😆
-hobi: rebahan
-cita-cita: dokter
-jurusan: RPL
+Nama: Sefira Dwi Ningsih
+Kelas: XI RPL😆
+Hobi: Rebahan
+Cita-cita: Dokter
+Jurusan: RPL
